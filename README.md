@@ -10,7 +10,7 @@ Either:
 
 -Compile files and run MemoryMatchGame
 
--Open folder containing extracted files and run MemoryMatchGame
+-Open folder containing extracted files in an IDE and run MemoryMatchGame
 
 
 # How to Play:
